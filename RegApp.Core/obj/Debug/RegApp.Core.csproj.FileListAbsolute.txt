@@ -1,0 +1,9 @@
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\bin\Debug\RegApp.Core.dll
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\bin\Debug\RegApp.Core.pdb
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\obj\Debug\RegApp.Core.csproj.AssemblyReference.cache
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\obj\Debug\RegApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\obj\Debug\RegApp.Core.csproj.CopyComplete
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\obj\Debug\RegApp.Core.dll
+C:\Users\drago\RiderProjects\RegApp\RegApp.Core\obj\Debug\RegApp.Core.pdb

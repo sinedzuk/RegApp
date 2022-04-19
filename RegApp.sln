@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegApp", "RegApp\RegApp.csproj", "{6777BD23-09E3-453A-B374-4DF8106EA298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegApp.Core", "RegApp.Core\RegApp.Core.csproj", "{251C7587-F275-4AA7-8CA5-5FC7BDE22DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6777BD23-09E3-453A-B374-4DF8106EA298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6777BD23-09E3-453A-B374-4DF8106EA298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6777BD23-09E3-453A-B374-4DF8106EA298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6777BD23-09E3-453A-B374-4DF8106EA298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251C7587-F275-4AA7-8CA5-5FC7BDE22DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251C7587-F275-4AA7-8CA5-5FC7BDE22DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251C7587-F275-4AA7-8CA5-5FC7BDE22DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251C7587-F275-4AA7-8CA5-5FC7BDE22DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
